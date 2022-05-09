@@ -1,0 +1,260 @@
+
+@media only screen and (min-width:769px) and (max-width:999px) {
+
+}
+
+@media only screen and (min-width:1200px) and (max-width:1920px) {
+
+    .logo {
+        padding-top: 20px;
+        margin-bottom: -110px;
+      }
+      .logo img {
+        width: 166px;
+        height: 142px;
+      }
+      .logo .logo-bg {
+        width: 263px;
+        height: 160px;
+        transform: translate(-50%, 15px);
+      }
+      .slide-title h2 {
+        font-size: 48px;
+      }
+      .slide-title {
+        padding-top: 203px;
+      }
+      .sub-title {
+        font-size: 36px;
+        padding-top: 74px;
+        margin-bottom: 29px;
+    }
+      .slide-page .slide-title-2 {
+        font-size: 32px;
+      }
+      .down-arrow img {
+        height: 64px;
+      }
+      .down-arrow {
+        width: 143px;
+        height: 143px;
+        line-height: 143px;
+        margin-top: -71px;
+    }
+    .bg-slide-img {
+        background: url(../img/large-hero.jpg);
+        padding-bottom: 119px;
+        clip-path: ellipse(94% 100% at 50% 0%);
+    }
+.bg-image-box, .bg-slide-img::after {
+    display: none;
+  }
+  .sub-title span {
+      display: block;
+  }
+  
+  .single-slide:first-child {
+	margin-top: 126px;
+	padding-bottom: 53px;
+}
+
+.btn {
+	height: 58px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+}
+  .form-button {
+    flex-flow: inherit;
+    padding-top: 18px;
+  }
+  .slide-title-2 {
+	font-size: 32px;
+	margin-bottom: 34px;
+}
+
+.single-slide {
+    padding-top: 82px;
+    padding-bottom: 62px;
+  }
+  select.form-control {
+    height: 49px;
+    width: 166px;
+    padding: 0 19px;
+    color: #606060;
+    background-position: 88% 20px;
+    margin: 0 15px;
+    margin-bottom: 12px;
+  }
+  .full-width-btn {
+    width: 417px;
+  }
+  
+.slide-three input.form-control {
+    width: 418px;
+    height: 50px;
+    font-size: 16px;
+    color: #606060;
+    margin-bottom: 14px;
+  }
+  .form-text p {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .slide-three .btn {
+    margin-bottom: 9px;
+  }
+  .single-slide.slide-three {
+	padding-bottom: 58px;
+	margin-top: 97px;
+}
+  .single-slide.slide-two {
+	margin-top: 97px;
+}
+
+.single-slide.slide-four {
+	padding-top: 48px;
+	padding-bottom: 44px;
+	margin-top: 43px;
+}
+  .slide-four .form-control {
+    height: 50px;
+    margin-bottom: 20px;
+    color: #606060;
+  }
+  .slide-four .slide-title-2 {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 34px;
+  }
+  .slide-four .form-all-box {
+    padding-left: 68px;
+    padding-right: 68px;
+  }
+  .slide-four .form-button {
+    padding-left: 68px;
+    padding-right: 68px;
+  }
+  .slide-four .full-width-btn {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+.section-title h2 {
+    font-size: 42px;
+    margin-bottom: 79px;
+  }
+  .service-area {
+    padding-top: 116px;
+    padding-bottom:   69px !important;
+  }
+  .single-service {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 47px;
+  }
+  .service-area.bg-light-2.pb-30 {
+  }
+  .footer-content h4 {
+    font-size: 24px;
+  }
+  .copyright p span {
+    display: inline;
+  }
+  .footer-links {
+    margin-bottom: 16px;
+  }
+  .footer-area {
+    padding-bottom: 63px;
+  }
+  .slide-four {
+      margin-bottom: 0;
+  }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .slide-title h2 {
+        font-size: 41px;
+    }
+    .bg-slide-img {
+        padding-bottom: 98px;
+        clip-path: ellipse(138% 100% at 50% 0%);
+    }
+    .single-service {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .slide-two .form-group {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      select.form-control {
+        width: 140px;
+      }
+      .slide-two .form-button {
+        margin-left: 84px;
+        margin-right: 84px;
+      }
+      
+.slide-three .btn {
+    width: 340px;
+  }
+  
+.slide-page .form-button {
+    flex-flow: inherit;
+  }
+  .slide-page .btn {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .slide-four {
+    margin-bottom: 0;
+}
+}
+
+
+@media only screen and (min-width:767px) and (max-width:991px) {
+
+    .slide-two .form-group {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      select.form-control {
+        width: 140px;
+      }
+      .slide-two .form-button {
+        margin-left: 84px;
+        margin-right: 84px;
+      }
+      
+.slide-three .btn {
+    width: 340px;
+  }
+  .slide-three .form-control {
+	width: 340px;
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+@media only screen and (min-width:320px) and (max-width:479px) {
+
+    .single-slide.slide-four {
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+      .slide-title-2 {
+        font-size: 19px;
+      }
+      .single-service {
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+      .service-image img {
+        width: 111px;
+      }
+      .single-slide.slide-four {
+        margin-bottom: 59px;
+      }
+}
